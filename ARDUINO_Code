@@ -3,8 +3,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 char auth[] = "oDj4oS4aI1wWTTII2WKy75tfEj_o--oH";
-char ssid[] = "Silpi13";
-char pass[] = "mampi1996";
+char ssid[] = "Diptendu123";
+char pass[] = "abcdefgh";
 
 WidgetLED led1(V1);
 WidgetLED led2(V2);
