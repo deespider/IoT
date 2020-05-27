@@ -51,7 +51,7 @@ Add the bill of the materials you need for this project.
 | Node MCU                 | ESP8266 12E | 1
 | Bread Board              |             | 1
 | Jumper Wires             |             | 10
-| Arduino IDE              |
-| Blynk App                |
+| Arduino IDE              |             |
+| Blynk App                |             |
 |===
 
